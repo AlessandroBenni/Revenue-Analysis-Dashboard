@@ -1,0 +1,301 @@
+customer_id,region
+C0001,Asia
+C0002,North America
+C0003,Asia
+C0004,Asia
+C0005,North America
+C0006,North America
+C0007,Asia
+C0008,Europe
+C0009,Asia
+C0010,Asia
+C0011,Asia
+C0012,Asia
+C0013,North America
+C0014,Asia
+C0015,Europe
+C0016,North America
+C0017,Europe
+C0018,Europe
+C0019,Europe
+C0020,Europe
+C0021,North America
+C0022,North America
+C0023,Europe
+C0024,Europe
+C0025,North America
+C0026,North America
+C0027,North America
+C0028,Asia
+C0029,Asia
+C0030,Asia
+C0031,Europe
+C0032,Asia
+C0033,Europe
+C0034,Europe
+C0035,Asia
+C0036,Europe
+C0037,Asia
+C0038,Asia
+C0039,North America
+C0040,Asia
+C0041,North America
+C0042,Asia
+C0043,Asia
+C0044,North America
+C0045,North America
+C0046,Asia
+C0047,Europe
+C0048,North America
+C0049,Europe
+C0050,Europe
+C0051,Europe
+C0052,North America
+C0053,Europe
+C0054,North America
+C0055,Europe
+C0056,Asia
+C0057,Asia
+C0058,North America
+C0059,Asia
+C0060,Asia
+C0061,Europe
+C0062,North America
+C0063,Europe
+C0064,Europe
+C0065,Europe
+C0066,Europe
+C0067,Europe
+C0068,Europe
+C0069,Europe
+C0070,North America
+C0071,Asia
+C0072,Europe
+C0073,Europe
+C0074,Europe
+C0075,Europe
+C0076,Europe
+C0077,Europe
+C0078,Asia
+C0079,Asia
+C0080,Europe
+C0081,Asia
+C0082,North America
+C0083,Europe
+C0084,North America
+C0085,North America
+C0086,Europe
+C0087,Asia
+C0088,North America
+C0089,Europe
+C0090,North America
+C0091,North America
+C0092,North America
+C0093,North America
+C0094,Asia
+C0095,North America
+C0096,North America
+C0097,North America
+C0098,Asia
+C0099,North America
+C0100,North America
+C0101,Asia
+C0102,Asia
+C0103,Asia
+C0104,North America
+C0105,Asia
+C0106,Asia
+C0107,North America
+C0108,Asia
+C0109,North America
+C0110,Europe
+C0111,Asia
+C0112,Europe
+C0113,North America
+C0114,Asia
+C0115,North America
+C0116,Europe
+C0117,North America
+C0118,Asia
+C0119,Asia
+C0120,Europe
+C0121,North America
+C0122,Asia
+C0123,Europe
+C0124,Asia
+C0125,Asia
+C0126,North America
+C0127,Asia
+C0128,North America
+C0129,Asia
+C0130,Europe
+C0131,Asia
+C0132,North America
+C0133,North America
+C0134,Europe
+C0135,Asia
+C0136,Asia
+C0137,Europe
+C0138,Asia
+C0139,Asia
+C0140,North America
+C0141,Asia
+C0142,Asia
+C0143,Europe
+C0144,Europe
+C0145,North America
+C0146,Asia
+C0147,Asia
+C0148,Asia
+C0149,North America
+C0150,North America
+C0151,Europe
+C0152,North America
+C0153,Asia
+C0154,Asia
+C0155,North America
+C0156,Asia
+C0157,Asia
+C0158,North America
+C0159,North America
+C0160,Asia
+C0161,Asia
+C0162,Asia
+C0163,Europe
+C0164,Europe
+C0165,Europe
+C0166,North America
+C0167,Europe
+C0168,North America
+C0169,North America
+C0170,Europe
+C0171,Europe
+C0172,Europe
+C0173,Asia
+C0174,Europe
+C0175,Asia
+C0176,North America
+C0177,Asia
+C0178,Europe
+C0179,North America
+C0180,North America
+C0181,North America
+C0182,Asia
+C0183,Europe
+C0184,North America
+C0185,North America
+C0186,North America
+C0187,Asia
+C0188,Asia
+C0189,Europe
+C0190,Asia
+C0191,North America
+C0192,Europe
+C0193,North America
+C0194,North America
+C0195,Asia
+C0196,Europe
+C0197,Asia
+C0198,Asia
+C0199,Europe
+C0200,North America
+C0201,North America
+C0202,Europe
+C0203,North America
+C0204,Europe
+C0205,Europe
+C0206,Asia
+C0207,Europe
+C0208,Asia
+C0209,North America
+C0210,North America
+C0211,North America
+C0212,North America
+C0213,Asia
+C0214,North America
+C0215,Europe
+C0216,Europe
+C0217,Europe
+C0218,Asia
+C0219,North America
+C0220,North America
+C0221,North America
+C0222,Asia
+C0223,Europe
+C0224,Europe
+C0225,North America
+C0226,Europe
+C0227,Europe
+C0228,Asia
+C0229,Asia
+C0230,Asia
+C0231,Asia
+C0232,North America
+C0233,Asia
+C0234,Europe
+C0235,North America
+C0236,Europe
+C0237,Europe
+C0238,Europe
+C0239,Asia
+C0240,Asia
+C0241,North America
+C0242,North America
+C0243,Asia
+C0244,Europe
+C0245,North America
+C0246,Asia
+C0247,Asia
+C0248,Asia
+C0249,Europe
+C0250,Asia
+C0251,Asia
+C0252,Asia
+C0253,Asia
+C0254,North America
+C0255,North America
+C0256,Asia
+C0257,Europe
+C0258,North America
+C0259,Asia
+C0260,North America
+C0261,North America
+C0262,Europe
+C0263,Asia
+C0264,Asia
+C0265,Europe
+C0266,Europe
+C0267,Asia
+C0268,Asia
+C0269,Europe
+C0270,North America
+C0271,North America
+C0272,Europe
+C0273,North America
+C0274,Europe
+C0275,North America
+C0276,North America
+C0277,Asia
+C0278,Asia
+C0279,North America
+C0280,North America
+C0281,Asia
+C0282,Asia
+C0283,Asia
+C0284,Europe
+C0285,North America
+C0286,Asia
+C0287,North America
+C0288,Europe
+C0289,Europe
+C0290,Asia
+C0291,Europe
+C0292,North America
+C0293,Asia
+C0294,North America
+C0295,North America
+C0296,Europe
+C0297,Europe
+C0298,Europe
+C0299,Europe
+C0300,Europe
