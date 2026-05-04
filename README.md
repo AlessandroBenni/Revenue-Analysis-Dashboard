@@ -31,7 +31,6 @@ Is revenue driven by premium brands or mass market?
 ### 1. Revenue Trend
 - Revenue remains relatively stable over time with moderate fluctuations
 - No extreme spikes or drops
-![Revenue Results](revenue.png)
 
 ---
 
